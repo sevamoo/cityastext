@@ -7,7 +7,7 @@
 [High resolution image](https://sevamoo.github.io/roadsareread/Images/mapof_all_8325.png)
 
 
-- [An interactive map showing the center of cities, towns and villages](https://sevamoo.github.io/cityastext/dotmap.html)
+- [An interactive map showing the center of cities, towns and villages](https://sevamoo.github.io/cityastext/docs/dotmap.html)
 
 
 
