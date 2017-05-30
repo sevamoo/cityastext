@@ -9,7 +9,6 @@ Currently there are more than 1.1 million cities, towns and villages indexed in 
 Below is a visualization of these extracted locations across the world.
 ![](Images/mapof_all_8325_small.png)
 [High resolution image](https://sevamoo.github.io/roadsareread/Images/mapof_all_8325.png)
-
 Further, there is an interactive map, where you can zoom in to different areas of the world.
 - [An interactive map showing the center of cities, towns and villages](https://sevamoo.github.io/cityastext/docs/dotmap.html)
 
@@ -23,12 +22,10 @@ In order to just test the quality of the learned dense representations of each c
 Further, we developed a simple web application, where user can interactively see these results for few thousands of these cities. 
 [![IMAGE ALT TEXT HERE](Images/cityfinder.png)](https://sevamoo.github.io/cityfinder/)
 
-
 Further, in order to create a two dimensional visualization of all of these 65k cities, we trained a Self Organizing Map (SOM) by the  encoding vectors of the trained CAE. The SOM assigns a two dimensional index to each data point in a way that similar data points get similar indexes. As a result, we will have a spectrum of city maps. Bellow is a visualization of around 25K cities using SOM algorithm.
 [![IMAGE ALT TEXT HERE](Images/2dEmbedding_p1.jpg)](https://drive.google.com/file/d/0B9Z7rVJcvzQASk5pNmUwdmhNc3c/view?usp=sharing)
 
 Further, here is a short clip showing transitions between different forms, learned by convolutional autoencoders and a one dimensional SOM
-
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/j0mrOhPyhRI/0.jpg)](http://www.youtube.com/watch?v=j0mrOhPyhRI)
 
 
