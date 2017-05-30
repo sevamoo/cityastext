@@ -16,7 +16,7 @@
 
 * The codes and the final results in a proper format to be published here soon.
 - [Low dimensional visualization of the learned dense vectors](https://drive.google.com/file/d/0B9Z7rVJcvzQASk5pNmUwdmhNc3c/view?usp=sharing) 
-- [Some examples of the most similar cities to a selected city](https://gitpitch.com/sevamoo/roadsareread/master)
+
 ![](Images/knn_cities.png)
 - [A simple webmap, which shows similar cities to a selected city](https://sevamoo.github.io/cityfinder/)
 
