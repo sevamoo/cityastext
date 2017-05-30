@@ -1,6 +1,6 @@
 # Urban Morphology Meets Deep Learning
 ## Basic Idea
-### Urban morphology is the study of "urban forms" and their underlying formation processes and forces over time. Here, by urban or city form, we main the combination of street networks, building patterns and their overall layout.
+#### Urban morphology is the study of "urban forms" and their underlying formation processes and forces over time. Here, by urban or city form, we main the combination of street networks, building patterns and their overall layout.
 Classically, urban morphologist study cities based on few features (usually learned from few famous cities) such as medieval cities (with concentric patterns), industrial cities with grids or highways, ecological cities with polycentric patterns and so on. Later these known features can be used for urban analysis and design. In terms of machine learning this is similar to use of engineered features or a given representations of objects, usually known by experts.
 On the other hand, now for the first time in the history we have access to both Big Data and Machine learning that work well together.
 In terms of Machine learning, the main questions in urban morphology can be translated to unsupervised tasks such as pattern recognition, clustering and feature learning or in to supervised tasks such as finding the relationships between city forms and different quantitative aspects such as total energy consumptions, transport quality or air pollution to just name few. 
