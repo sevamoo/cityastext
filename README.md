@@ -21,11 +21,11 @@ Below is a visualization of these extracted locations across the world.
 #### In order to just test the quality of the learned dense representations of each city, we developed a simple framework based on K-NN (with K=6) algorithm, where by selecting a specific city by user, the system finds K other similar cities. As expected from Convolutional Networks, the following figure shows that the learned vectors are keeping lots of information about overall form as well as translation, orientation, density of the road networks. In each row the left city is the query and the rest are the K most similar city patterns.
 ![](Images/knn_cities.png)
 #### Further, we developed a simple web application, where user can interactively see these results for few thousands of these cities. 
-[here](https://sevamoo.github.io/cityfinder/)
+[![IMAGE ALT TEXT HERE](Images/cityfinder.png)](https://sevamoo.github.io/cityfinder/)
+
 
 #### Further, in order to create a two dimensional visualization of all of these 65k cities, we trained a Self Organizing Map (SOM) by the  encoding vectors of the trained CAE. The SOM assigns a two dimensional index to each data point in a way that similar data points get similar indexes. As a result, we will have a spectrum of city maps. Bellow is a visualization of around 25K cities using SOM algorithm.
-![](Images/2dEmbedding_p1.jpg)
-[The full image can be downloaded from here](https://drive.google.com/file/d/0B9Z7rVJcvzQASk5pNmUwdmhNc3c/view?usp=sharing) 
+[![IMAGE ALT TEXT HERE](Images/2dEmbedding_p1.jpg)](https://drive.google.com/file/d/0B9Z7rVJcvzQASk5pNmUwdmhNc3c/view?usp=sharing)
 
 #### Further, here is a short clip showing transitions between different forms, learned by convolutional autoencoders and a one dimensional SOM
 
