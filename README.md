@@ -11,6 +11,7 @@ Below is a visualization of these extracted locations across the world.
 ![](Images/mapof_all_8325_small.png)
 
 [High resolution image](https://sevamoo.github.io/roadsareread/Images/mapof_all_8325.png)
+
 Further, there is an interactive map, where you can zoom in to different areas of the world.
 
 [An interactive map showing the center of cities, towns and villages](https://sevamoo.github.io/cityastext/docs/dotmap.html)
