@@ -27,9 +27,11 @@ In order to just test the quality of the learned dense representations of each c
 
 ![](Images/knn_cities.png)
 
+<!-- 
 Further, we developed a simple web application, where user can interactively see these results for few thousands of these cities. 
 
 [![IMAGE ALT TEXT HERE](Images/cityfinder.png)](https://sevamoo.github.io/cityfinder/)
+ -->
 
 In addition, in order to create a two dimensional visualization of all of these 65k cities, we trained a Self Organizing Map (SOM) by the  encoding vectors of the trained CAE. The SOM assigns a two dimensional index to each data point in a way that similar data points get similar indexes. As a result, we will have a spectrum of city maps. Bellow is a small section of a visualization of around 25K cities using SOM algorithm. By clicking on the image, one can download the whole visualization with a high resolution.
 
