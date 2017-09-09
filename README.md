@@ -33,7 +33,7 @@ Further, we developed a simple web application, where user can interactively see
 [![IMAGE ALT TEXT HERE](Images/cityfinder.png)](https://sevamoo.github.io/cityfinder/)
  -->
 
-In addition, in order to create a two dimensional visualization of all of these 65k cities, we trained a Self Organizing Map (SOM) by the  encoding vectors of the trained CAE. The SOM assigns a two dimensional index to each data point in a way that similar data points get similar indexes. As a result, we will have a spectrum of city maps. Bellow is a small section of a visualization of around 25K cities using SOM algorithm. By clicking on the image, one can download the whole visualization with a high resolution.
+In addition, in order to create a two dimensional visualization of all of these 65k cities, we trained a Self Organizing Map (SOM) by the  encoding vectors of the trained CAE. The SOM assigns a two dimensional index to each data point in a way that similar data points get similar indexes. As a result, we will have a spectrum of city maps. Figure below shows a small section of a visualization of around 25K cities using SOM algorithm. By clicking on the image, one can download the whole visualization with a high resolution.
 
 [![IMAGE ALT TEXT HERE](Images/2dEmbedding_p1.jpg)](http://www.caad.arch.ethz.ch/blog/wp-content/uploads/2017/02/All_21850_78010_250_0_white_small.html)
 
